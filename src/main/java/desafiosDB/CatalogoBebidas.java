@@ -1,4 +1,4 @@
-package desafio;
+package desafiosDB;
 
 
 import java.util.Scanner;
