@@ -7,14 +7,30 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Qual a sua idade?");
-        int idade = scanner.nextInt();
+        System.out.println("Digite o número correspondente a funcionalidade que gostaría de validar?");
+        System.out.println("1. Qual a sua idade?");
+        System.out.println("2. Catalogo de Bebidas");
+        System.out.println("3. Descontos");
 
-        if (idade >= 18) {
-            System.out.println("Você é maior de idade.");
-        } else {
-            System.out.println("Você é menor de idade.");
-        }
+        int opcao = scanner.nextInt();
+
+        switch (opcao) {
+            case 1:
+                QualSuaIdade idade = new QualSuaIdade();
+                idade.qualSuaIdade();
+                break;
+
+            case 2:
+                CatalogoDeBebidas catalogo = new CatalogoDeBebidas();
+                catalogo.catalogoDeBebidas();
+                break;
+
+            case 3:
+                Descontos descontos= new Descontos();
+                descontos.descontos();
+                break;
+
+          }
 
     }
 }

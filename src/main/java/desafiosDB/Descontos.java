@@ -3,8 +3,9 @@ package desafiosDB;
 import java.util.Scanner;
 
 public class Descontos {
-    public static void main(String[] args) {
+    public void descontos() {
         Scanner scanner = new Scanner(System.in);
+
         System.out.println("Digite o nome do produto: ");
         String produto = scanner.next();
 

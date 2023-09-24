@@ -5,12 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1b8a12a4-ea5c-4f48-acdc-e816dd0c0b02" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/desafio/Praticando.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/desafiosDB/Descontos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/desafiosDB/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/desafiosDB/CatalogoDeBebidas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/desafiosDB/Praticando.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/desafiosDB/QualSuaIdade.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/desafio/CatalogoBebidas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/desafiosDB/CatalogoBebidas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/desafio/Praticando.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/desafiosDB/CatalogoBebidas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/desafiosDB/Descontos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/desafiosDB/Descontos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/desafiosDB/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/desafiosDB/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +31,6 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/pom.xml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/desafiosDB/CatalogoBebidas.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/main/java/desafiosDB/Main.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -41,20 +42,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/layla.lopes/Documents/Automação/DesafiosTrilhaDB&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/layla.lopes/Documents/Automação/DesafiosTrilhaDB",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="desafiosDB" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="org.example" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Descontos">
+  <component name="RunManager" selected="Application.desafiosDB.Main">
     <configuration name="Descontos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="desafiosDB.Descontos" />
       <module name="DesafiosTrilhaDB" />
@@ -81,6 +88,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="desafiosDB.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="desafiosDB.Main" />
+      <module name="DesafiosTrilhaDB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="desafiosDB.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="org.example.CatalogoBebidas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.CatalogoBebidas" />
       <module name="DesafiosTrilhaDB" />
@@ -96,6 +116,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.desafiosDB.Main" />
         <item itemvalue="Application.Descontos" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.org.example.CatalogoBebidas" />

@@ -1,11 +1,10 @@
 package desafiosDB;
 
-
 import java.util.Scanner;
 
-public class CatalogoBebidas {
+public class CatalogoDeBebidas {
 
-    public static void main(String[] args) {
+    public void catalogoDeBebidas() {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Bem-vindo ao Mercado da Layla!");
@@ -37,12 +36,8 @@ public class CatalogoBebidas {
                 System.out.println("Compra efetuada com sucesso.");
                 break;
             default:
-                System.out.println("Opção inválida. Por favor, escolha uma opção válida.");
-                break;
+                System.out.println("Opção inválida. Por favor, digite uma opção válida.");
         }
     }
 }
-
-
-
 
