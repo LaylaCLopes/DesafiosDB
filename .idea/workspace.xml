@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1b8a12a4-ea5c-4f48-acdc-e816dd0c0b02" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/desafiosDB/Menu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/desafiosDB/CatalogoDeBebidas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/desafiosDB/CatalogoDeBebidas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/desafiosDB/Descontos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/desafiosDB/Descontos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/desafiosDB/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/desafiosDB/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/desafiosDB/Praticando.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/desafiosDB/Praticando.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/desafiosDB/QualSuaIdade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/desafiosDB/QualSuaIdade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/desafiosDB/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/desafiosDB/Menu.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,16 +139,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/desafiosDB/Descontos.java</url>
-          <line>30</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

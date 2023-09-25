@@ -35,13 +35,13 @@ public class Descontos {
         int quantidade = scanner.nextInt();
 
         if (quantidade <= 10){
-            System.out.println("Produto: "+produto+" Valor: " +(valor*quantidade) + "\n");
+            System.out.println("Produto: "+produto+" \nValor: " +(valor*quantidade) + "\n");
         }else if (quantidade <= 20){
-            System.out.println("Produto: "+produto+" Valor: " + ((valor*quantidade)*0.9) + "\n");
+            System.out.println("Produto: "+produto+" \nValor: " + ((valor*quantidade)*0.9) + "\n");
         }else if (quantidade <= 50) {
-            System.out.println("Produto: " + produto + " Valor: " + ((valor * quantidade) * 0.8) + "\n");
+            System.out.println("Produto: " + produto + " \nValor: " + ((valor * quantidade) * 0.8) + "\n");
         }else {
-            System.out.println("Produto: " + produto + " Valor: " + ((valor * quantidade) * 0.75) + "\n");
+            System.out.println("Produto: " + produto + " \nValor: " + ((valor * quantidade) * 0.75) + "\n");
         }
 
 

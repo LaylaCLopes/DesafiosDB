@@ -11,7 +11,7 @@ public class Menu {
     }
 
     public void mostraMenu() {
-        System.out.println("Digite o número correspondente a funcionalidade que gostaría de validar?");
+        System.out.println("Digite o número correspondente a funcionalidade que gostaría de validar:");
         System.out.println("1. Qual a sua idade?");
         System.out.println("2. Catalogo de Bebidas");
         System.out.println("3. Descontos");
