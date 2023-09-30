@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1b8a12a4-ea5c-4f48-acdc-e816dd0c0b02" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/desafiosDB/NotadoAluno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/desafiosDB/Descontos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/desafiosDB/Descontos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/desafiosDB/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/desafiosDB/Menu.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +44,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/layla.lopes/Documents/Automação/SuperMercadoProva",
+    "last_opened_file_path": "C:/Users/layla.lopes/Documents/Automação/DesafiosTrilhaDB",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"

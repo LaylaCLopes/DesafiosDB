@@ -15,6 +15,7 @@ public class Menu {
         System.out.println("1. Qual a sua idade?");
         System.out.println("2. Catalogo de Bebidas");
         System.out.println("3. Descontos");
+        System.out.println("4. Nota do Aluno");
         System.out.println("0. Sair");
     }
 
@@ -37,6 +38,11 @@ public class Menu {
             case 3:
                 Descontos descontos= new Descontos();
                 descontos.descontos();
+                return true;
+
+            case 4:
+                NotadoAluno notadoAluno = new NotadoAluno();
+                notadoAluno.notadoaluno();
                 return true;
 
             case 0:
