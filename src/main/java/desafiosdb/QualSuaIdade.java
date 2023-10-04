@@ -1,4 +1,4 @@
-package desafiosDB;
+package desafiosdb;
 
 import java.util.Scanner;
 
@@ -12,6 +12,7 @@ public class QualSuaIdade {
             System.out.println("Você é maior de idade\n");
         }else {
             System.out.println("Você é menor de idade\n");
+
         }
 
 

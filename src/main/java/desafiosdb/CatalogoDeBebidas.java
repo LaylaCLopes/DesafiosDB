@@ -1,4 +1,4 @@
-package desafiosDB;
+package desafiosdb;
 /*
 Você irá escrever um programa de console para um mercado que vende apenas tres tipos de bebida:
  cerveja, refrigerante e água.

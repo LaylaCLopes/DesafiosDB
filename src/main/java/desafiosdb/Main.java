@@ -1,4 +1,4 @@
-package desafiosDB;
+package desafiosdb;
 
 
 public class Main {

@@ -1,9 +1,9 @@
-package desafiosDB;
+package desafiosdb;
 
 import java.util.Scanner;
 
-public class NotadoAluno {
-    public void notadoaluno() {
+public class NotaDoAluno {
+    public void notaDoAluno() {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Digite a primeira do aluno: ");

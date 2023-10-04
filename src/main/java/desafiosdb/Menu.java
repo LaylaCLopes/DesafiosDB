@@ -1,4 +1,4 @@
-package desafiosDB;
+package desafiosdb;
 
 import java.util.Scanner;
 
@@ -41,8 +41,8 @@ public class Menu {
                 return true;
 
             case 4:
-                NotadoAluno notadoAluno = new NotadoAluno();
-                notadoAluno.notadoaluno();
+                NotaDoAluno notadoAluno = new NotaDoAluno();
+                notadoAluno.notaDoAluno();
                 return true;
 
             case 0:

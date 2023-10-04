@@ -1,4 +1,4 @@
-package desafiosDB;
+package desafiosdb;
 
         /*Você deve escrever um programa de console para um mercado que irá registrar as compras dos clientes e conceder um desconto de acordo com a quantidade de itens comprados.
         Cada produto informado deve ter: nome, preço e quantidade.
