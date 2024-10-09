@@ -2,7 +2,7 @@ package desafiosdb;
 
 import java.util.Scanner;
 
-public class Menu {
+public class MenuLogica {
 
     public void controleMenu(){
         do{
@@ -16,6 +16,7 @@ public class Menu {
         System.out.println("2. Catalogo de Bebidas");
         System.out.println("3. Descontos");
         System.out.println("4. Nota do Aluno");
+        System.out.println("5. Calculadora");
         System.out.println("0. Sair");
     }
 
@@ -45,6 +46,12 @@ public class Menu {
                 notadoAluno.notaDoAluno();
                 return true;
 
+            case 5:
+                Calculadora calculadora = new Calculadora();
+                calculadora.calculadora();
+                return true;
+
+
             case 0:
                 return false;
 
@@ -53,6 +60,5 @@ public class Menu {
                 return true;
         }
     }
-
 
 }
