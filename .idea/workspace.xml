@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1b8a12a4-ea5c-4f48-acdc-e816dd0c0b02" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/desafiosdb/Calculadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/desafiosdb/OperadoresLogicos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/desafiosdb/Descontos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/desafiosdb/Descontos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/desafiosdb/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/desafiosdb/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/desafiosdb/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/desafiosdb/MenuLogica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/desafiosdb/NotaDoAluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/desafiosdb/NotaDoAluno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/desafiosdb/Treino.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
